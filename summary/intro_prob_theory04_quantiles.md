@@ -45,6 +45,7 @@
 
 1.	Basic Concept and its properties
 
+- BH, Chapter 2.9
 - CB, chapter 2.1. page 54.
 - Hansen, July 2019, Chapter 10.7
 - [Arellano’s notes on Quantile Methods, Section 1 on Unconditional Quantiles](https://www.cemfi.es/~arellano/quantile-methods-notes.pdf) 

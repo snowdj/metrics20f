@@ -1,5 +1,9 @@
 # Introduction to Econometrics and Probability Theory: Alternative Ways to Characterize the distribution
 
+## Math Prerequisites
+
+
+
 ## Detailed Topics to be covered
 
 1. Mean and Moments
@@ -32,7 +36,7 @@
 
 ## Readings
 
-1. Alternative Ways to Characterize a Distribution (CB Chapter 2.3., 2.6; Exercise 4.57 on page 202: entropy; Hansen 2019, Chapter 2.32 and exercises in Chapter 5.)
-2. (Optional) Math: Differentiating Under an Integral Sign (CB Chapter 2.4.)
+1. Alternative Ways to Characterize a Distribution (BH Chapters 2.16,2.20, 2.23, 2.24, 2.25; CB Chapter 2.3., 2.6; Exercise 4.57 on page 202: entropy; Hansen 2019, Chapter 2.32 and exercises in Chapter 5.)
+2. Math: Differentiating Under an Integral Sign (CB Chapter 2.4.)
 
 

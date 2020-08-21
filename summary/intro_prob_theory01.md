@@ -14,10 +14,11 @@
     2. The components of a probabilistic model
     3. Basic Axioms and Probability Function
     4. Implications and Properties of Probability Function
+    5. Joint events and Independence
     
     
 ## Readings
 
-1. BH, Chapter 1.1-1.6, 1.9, 1.14
+1. BH, Chapter 1.1-1.6, 1.8 (no need to look at conditional probability at this point), 1.9, 1.14
 2. CB, Chapter 1
 

@@ -51,7 +51,7 @@
 
     a.	Multivariate normal distribution (Greene, Appendix B. )
     
-    b.	Truncated distribution (Greene, Chapter 19)
+    b.	Truncated distribution (Greene, Chapter 19; BH, Chapter 2.21),
     
     c.	Application: Foundation of Modern Microeconometrics – Roy Model (see, e.g., Heidi Williams’ notes for a complete description of the application; our results are listed as a collection of facts to be applied to solve this application (page 11.): https://ocw.mit.edu/courses/economics/14-662-labor-economics-ii-spring-2015/lecture-notes/)
 
