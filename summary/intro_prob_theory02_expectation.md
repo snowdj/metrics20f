@@ -36,7 +36,6 @@
 
 1.	Basic Concept and Properties(BH, Chapter 2.5-2.6, 2.13, 2.14; CB, Chapter 2.2. pages 55-57; Hansen 2019, Chapter 2.31.)
 2.	Distributions and Expectations of Functions of a Random Variable (BH, Chapter 2.4; CB, Chapter 2.1., Chapter 2.2. page 58-59)
-3.	Alternative Ways to Characterize a Distribution (CB Chapter 2.3., 2.6; Exercise 4.57 on page 202: entropy; Hansen 2019, Chapter 2.32 and exercises in Chapter 5.)
 
 ## Additional Readings
 

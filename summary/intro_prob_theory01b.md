@@ -1,6 +1,6 @@
 # Topic 1.b Random Variable and Probability Distribution Function
 
-## Before class: Techniques of Integration
+## Math Prerequisites: Techniques of Integration
 
 1. Substituion Rule
 2. Integration by parts
@@ -40,6 +40,7 @@
     
 ## Readings
 
+0. [Slides](../lectures/topic1-intro_prob02-random_variable.pdf)
 1.	Random Variables and Distributions: (BH, Chapter 2.1-2.3, 2.7, 2.8, 2.10; CB, Chapter 1.4.-1.6.)
 3.	Random Sampling (BH: Chapter 6.1-6.4, CB, Chapter 5.1.; Hansen, Chapter 1.5. )
 4.	Estimation and Empirical CDF

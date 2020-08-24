@@ -3,7 +3,6 @@
 ## Math Prerequisites
 
 
-
 ## Detailed Topics to be covered
 
 1. Mean and Moments

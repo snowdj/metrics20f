@@ -19,6 +19,7 @@
     
 ## Readings
 
+0. [Slides](../lectures/topic1-intro_prob01-basics.pdf)
 1. BH, Chapter 1.1-1.6, 1.8 (no need to look at conditional probability at this point), 1.9, 1.14
 2. CB, Chapter 1
 
