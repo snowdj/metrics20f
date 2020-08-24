@@ -34,6 +34,7 @@
 
 ## Readings
 
+0. [Slides (Part I)](../lectures/topic2_expectation01-definition.pdf), [Slides (Part II)](../lectures/topic2_expectation02-function-transformation.pdf)
 1.	Basic Concept and Properties(BH, Chapter 2.5-2.6, 2.13, 2.14; CB, Chapter 2.2. pages 55-57; Hansen 2019, Chapter 2.31.)
 2.	Distributions and Expectations of Functions of a Random Variable (BH, Chapter 2.4; CB, Chapter 2.1., Chapter 2.2. page 58-59)
 
