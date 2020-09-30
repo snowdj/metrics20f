@@ -2,6 +2,13 @@
 
 ## Math Prerequisites
 
+1. Complex Numbers
+    
+    a. What is complex number?
+    b. How to define the absolute value of a complex number?
+    c. What is Euler's Formula?
+    
+2. Pythagorean trigonometric identity
 
 ## Detailed Topics to be covered
 
@@ -35,6 +42,7 @@
 
 ## Readings
 
+0. [Slides](../lectures/topic3_alternative-ways.pdf)
 1. Alternative Ways to Characterize a Distribution (BH Chapters 2.16,2.20, 2.23, 2.24, 2.25; CB Chapter 2.3., 2.6; Exercise 4.57 on page 202: entropy; Hansen 2019, Chapter 2.32 and exercises in Chapter 5.)
 2. Math: Differentiating Under an Integral Sign (CB Chapter 2.4.)
 
