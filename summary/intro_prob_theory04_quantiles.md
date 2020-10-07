@@ -43,6 +43,9 @@
     
 ## Readings
 
+0. [Slides (Part I)](../lectures/topic4_quantile.pdf); [Slides (Part II)](../lectures/topic4_quantile02.pdf)
+
+
 1.	Basic Concept and its properties
 
 - BH, Chapter 2.9
