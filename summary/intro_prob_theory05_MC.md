@@ -22,7 +22,7 @@ vs. Subjective)
 
 2. Hogg, McKean, and Craig (6e): Chapter 5.8.
 
-3. [My slides here](../lecture/monte_carlo.pdf)
+3. [My slides here](../lecture/topic5_monte_carlo.pdf)
 
 ## Programming Examples
 

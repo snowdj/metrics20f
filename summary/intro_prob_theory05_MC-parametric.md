@@ -20,9 +20,13 @@
 
 ## Readings
 
+0. [Slides](../lecture/topic6-special-parametric-distributions.pdf)
+
 1.	(Optional) Discrete Distributions (CB, Chapter 3.2.)
 
 2.	Continuous Distributions 
+  
+    0. BH (Chapter 5.)
 
     1. CB, Chapter 3.3-3.5; pages 219-220
     
