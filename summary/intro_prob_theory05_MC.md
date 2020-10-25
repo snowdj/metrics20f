@@ -18,11 +18,11 @@ vs. Subjective)
 
 ## Readings
 
+0. [Slides](../lectures/topic5_monte_carlo.pdf)
+
 1. Hansen, July 2019, Chapter 9.17.
 
 2. Hogg, McKean, and Craig (6e): Chapter 5.8.
-
-3. [My slides here](../lecture/topic5_monte_carlo.pdf)
 
 ## Programming Examples
 
