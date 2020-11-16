@@ -49,6 +49,8 @@
 
 ## Readings
 
+0. [Slides (Part 1)](../lectures/topic7_joint-distributions.pdf); [Slides (Part 2)](../lectures/topic7_joint-distributions02.pdf)
+
 1.	Basic Definitions (CB, chapter 4.1.)
 
 2.	Quantify relationship between two variables 
@@ -57,7 +59,7 @@
     
     b.	Covariance and Correlation (CB, chapter 4.5)
 
-3.	**Special Case**: Multivariate Normal (see also Bruce Hansen’s notes Chapter 5.2.). Note that we will use this result in various settings such as derivation of the exact finite sample distribution of OLS estimator.
+3.	**Special Case**: Multivariate Normal (see also BH, chapters 5.7-5.8; Bruce Hansen’s notes Chapter 5.2.). Note that we will use this result in various settings such as derivation of the exact finite sample distribution of OLS estimator.
 
 
 4. [MIT Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7a.pdf)
