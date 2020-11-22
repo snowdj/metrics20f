@@ -49,7 +49,7 @@
 
 ## Readings
 
-0. [Slides (Part 1)](../lectures/topic7_joint-distributions.pdf); [Slides (Part 2)](../lectures/topic7_joint-distributions02.pdf)
+0. [Slides (Part 1)](../lectures/topic7-joint_distributions.pdf); [Slides (Part 2)](../lectures/topic7-joint_distributions02.pdf)
 
 1.	Basic Definitions (CB, chapter 4.1.)
 

@@ -45,6 +45,8 @@
     
 ## Readings
 
+0. [Slides](../lectures/topic8-conditional_distribution.pdf)
+
 1.	Basic Definitions (CB, Chapter 4.2)
 
 2.	Special Conditional Distributions and its first two moments.
