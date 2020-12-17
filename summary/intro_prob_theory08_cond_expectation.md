@@ -33,6 +33,8 @@
     
 ## Readings
 
+0. [Slides](../lectures/topic8-conditional_expectation.pdf)
+
 1.	Definition and Existence (Hansen, Chapters 2.3-2.6, 2.34-2.35)
 
 2.	Law of Iterated Expectation and Conditioning Theorem (CB, Chapter 4.4, page 164; Hansen 2019, Chapter 2.7; proofs in Chapter 2.36. )

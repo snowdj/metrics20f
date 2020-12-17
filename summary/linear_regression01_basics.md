@@ -21,6 +21,9 @@
 
 ## Readings
 
+0. [Slides](../lectures/topic9-linear_regression.pdf)
+
+
 1.	(Self-study) Simple Regression (one-variable case)
 2.	Multiple Regression (Hansen chapter 2.18)
 3.	(Self-study) Better understanding of regression coefficients (Hansen Chapters 2.21, 2.22, 2.23)
