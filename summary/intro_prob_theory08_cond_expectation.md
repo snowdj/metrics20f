@@ -33,7 +33,7 @@
     
 ## Readings
 
-0. [Slides](../lectures/topic8-conditional_expectation.pdf)
+0. [Slides](../lectures/topic8-conditional_distribution02.pdf)
 
 1.	Definition and Existence (Hansen, Chapters 2.3-2.6, 2.34-2.35)
 
